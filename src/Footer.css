@@ -1,0 +1,12 @@
+#footerContainer {
+    width: 100%;
+    height: 12vh;
+    border: 1px solid black;
+    background-color:#000000e0;
+    color:black;
+    display:inline-block
+}
+.icons i{
+    color:#8dadca;
+    margin-left: 10px;
+}

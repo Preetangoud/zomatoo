@@ -1,0 +1,32 @@
+#searchContainer {
+    width: 100%;
+    height: 45vh;
+    border: 1px solid black;
+    margin-top:-20px;
+    background-image: url(https://i.pinimg.com/originals/12/09/89/120989a20e62f181077dbec822ba2461.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#searchContainer > h2 {
+    position: absolute;
+    color: white;
+    margin-top:8%;
+    margin-left: 45%;
+    font-size:40px;
+}
+.selection{
+    margin-top:13%;
+    margin-left:42%;
+    font-size:25px;
+    width:25%;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+.selection2{
+    font-size:25px;
+    width:25%;
+    text-align: center;
+    padding: 5px
+}
