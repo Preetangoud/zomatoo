@@ -2,8 +2,7 @@ import React, {Component}from 'react';
 import './PlaceOrder.css';
 
 
-const url = 'http://zomatoajulypi.herokuapp.com/menuItem';
-const purl = "https://localhost:9100/placeorder";
+
 
 class PlaceOrder extends Component {
         constructor(props) {
